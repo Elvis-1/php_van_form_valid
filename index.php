@@ -57,10 +57,10 @@
 </html>
 
 <script>
-alert('working');
+
 function save_data()
 {
-	alert(' function working');
+	
 	var form_element = document.getElementsByClassName('form_data');
 
 	var form_data = new FormData();
